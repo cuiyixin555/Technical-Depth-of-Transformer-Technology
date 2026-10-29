@@ -1,2 +1,18 @@
-# Technical-Depth-of-Transformer-Technology
-This is source code for Technical Depth of Transformer Technology
+# 《Transformer技术纵深》
+
+![《Transformer技术纵深》书籍大图](asserts/Technical-Depth-of-Transformer-Technology.png)
+
+本仓库是《Transformer技术纵深》一书的配套公开仓库，收录书中相关源代码与书籍大图，供开发者学习、查阅和参考。
+
+## 仓库内容
+
+- **源代码**：与书中 Transformer 技术主题相关的代码和项目资料，按目录组织。请进入相应目录查看代码及其说明。
+- **书籍大图**：书籍图片位于 [`asserts/`](asserts/) 目录。
+
+## 如何使用
+
+浏览本仓库中的目录和源文件，结合书籍内容阅读和实践。代码可能依赖特定的运行环境或第三方项目；运行前请先查看对应目录中的说明及依赖项目文档。
+
+## 版权与许可
+
+本仓库面向开发者学习与技术参考。仓库内代码、文档及第三方项目分别适用其对应的版权和许可条款；如需复制、分发或用于其他用途，请先确认相关条款。
